@@ -1,6 +1,6 @@
 ### Olá! Sou Graziely Tavares e ...
 <hr>
-<div align="center">
+<div>
 
 <p> 📚 Formada em  Técnico em administração <p>
 <p> 💻 Formando em Técnico em Desenvolvimento de Sistemas <p>
