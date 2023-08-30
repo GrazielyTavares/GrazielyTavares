@@ -2,8 +2,9 @@
 <hr>
 <div>
 
-<p> 📚 Formada em  Técnico em administração <p>
-<p> 💻 Formando em Técnico em Desenvolvimento de Sistemas <p>
+<p> 📚 Graduação em andamento em Ciência da Computação <p>
+<p> 💻 Formada em Técnico em Desenvolvimento de Sistemas <p>
+
 
 </div>
 
