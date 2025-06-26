@@ -1,9 +1,10 @@
-### Olá! Me chamo Graziely Tavares e estou em formação para se tornar uma desenvolvedora...
+### Olá! Me chamo Graziely Tavares
 <hr>
 <div>
 
 <h3>Formação</h3>
-<p> 📚 Graduação em andamento em Ciência da Computação <p>
+<p> 📚 Graduação em andamento em Sistema de Informação na FIAP<p>
+<p> 📚 Graduação em andamento em Ciência da Computação na USJT<p>
 <p> 💻 Formada em Técnico em Desenvolvimento de Sistemas <p>
 
 
