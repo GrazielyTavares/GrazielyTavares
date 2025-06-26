@@ -3,7 +3,7 @@
 <div>
 
 <h3>Formação</h3>
-<p> 📚 Graduação em andamento em Sistema de Informação na FIAP<p>
+<p> 🖥️ Graduação em andamento em Sistema de Informação na FIAP<p>
 <p> 📚 Graduação em andamento em Ciência da Computação na USJT<p>
 <p> 💻 Formada em Técnico em Desenvolvimento de Sistemas <p>
 
@@ -12,9 +12,6 @@
 
 <hr>
 <br>
-
- ![Snake animation](https://github.com/GrazielyTavares/GrazielyTavares/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <a href="https://github.com/GrazielyTavares">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GrazielyTavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
