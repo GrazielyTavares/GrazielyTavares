@@ -4,7 +4,6 @@
 
 <h3>Formação</h3>
 <p> 🖥️ Graduação em andamento em Sistema de Informação na FIAP<p>
-<p> 📚 Graduação em andamento em Ciência da Computação na USJT<p>
 <p> 💻 Formada em Técnico em Desenvolvimento de Sistemas <p>
 
 
@@ -14,8 +13,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/GrazielyTavares">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GrazielyTavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrazielyTavares&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrazielyTavares&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
